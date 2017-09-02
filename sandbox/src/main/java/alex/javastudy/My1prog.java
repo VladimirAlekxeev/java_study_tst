@@ -1,7 +1,7 @@
-package alex.java.study;
+package alex.javastudy;
 
 public class My1prog {
-    public static void main(String[] args) {   
+    public static void main(String[] args) {
         System.out.println("Hello World!");
     }
 }
